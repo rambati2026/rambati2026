@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="YOUR_BANNER_URL_HERE" width="100%" alt="Ramakrishna Ambati Banner"/>
+<img src="ChatGPT Image Jul 30, 2026, 06_03_26 PM.png" width="100%" alt="Ramakrishna Ambati Banner"/>
 
 </p>
 
