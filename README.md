@@ -1,5 +1,5 @@
 # 💫 About Me:
-Netsuite Solution architect
+Netsuite Solution Architect
 
 
 ## 🌐 Socials:
