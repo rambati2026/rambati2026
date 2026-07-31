@@ -1,27 +1,373 @@
-# 💫 About Me:
-Netsuite Solution Architect
+<!-- ========================================================= -->
+<!--                    GITHUB PROFILE README                  -->
+<!-- ========================================================= -->
 
+<p align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramambati/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramakrishna.amr@gmail.com) 
+<img src="YOUR_BANNER_URL_HERE" width="100%" alt="Ramakrishna Ambati Banner"/>
 
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rambati2026&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rambati2026&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rambati2026&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rambati2026&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">
+Hi 👋 I'm Ramakrishna (Ram) Ambati
+</h1>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rambati2026&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🚀 NetSuite Solution Architect • AI Developer • Enterprise Automation Specialist
+
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=NetSuite+Solution+Architect;Enterprise+Automation+Expert;SuiteScript+Developer;Chrome+Extension+Developer;AI+Application+Developer;Swift+iOS+Developer;Building+Solutions+that+Save+Thousands+of+Hours" />
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ramambati">
+<img src="https://img.shields.io/badge/LinkedIn-Ramakrishna%20Ambati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ramakrishna.amr@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rambati2026">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rambati2026&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/rambati2026?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/rambati2026?style=for-the-badge"/>
+
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=rambati2026&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+I'm a **NetSuite Solution Architect** passionate about designing enterprise software that transforms business operations through automation, AI, cloud technologies, and modern engineering practices.
+
+I specialize in building scalable enterprise solutions that streamline procurement, finance, inventory management, manufacturing, vendor collaboration, reporting, and business intelligence.
+
+---
+
+# 💼 What I Do
+
+✅ Enterprise NetSuite Architecture
+
+✅ SuiteScript 2.x Development
+
+✅ Procurement Automation
+
+✅ Procure-to-Pay (P2P)
+
+✅ Order-to-Cash (O2C)
+
+✅ Vendor Management
+
+✅ Inventory Automation
+
+✅ Manufacturing Solutions
+
+✅ Chrome Extensions
+
+✅ AI Integrations
+
+✅ Swift iOS Development
+
+✅ Enterprise APIs
+
+✅ REST Integrations
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 AI-powered Enterprise Applications
+- 🚀 NetSuite Automation
+- 🌐 Chrome Extensions
+- 📱 Swift & SwiftUI
+- ☁️ Cloud Integrations
+- 🧠 Large Language Models
+- 🤖 AI Agents
+- 📊 Enterprise Analytics
+
+---
+
+# 🛠 ERP Technologies
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+
+![NetSuite](https://img.shields.io/badge/Oracle-NetSuite-red?style=for-the-badge)
+
+![SuiteScript](https://img.shields.io/badge/SuiteScript-2.x-blue?style=for-the-badge)
+
+![SuiteQL](https://img.shields.io/badge/SuiteQL-green?style=for-the-badge)
+
+![SuiteAnalytics](https://img.shields.io/badge/SuiteAnalytics-orange?style=for-the-badge)
+
+---
+
+# 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+
+![Swift](https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift)
+
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-black?style=for-the-badge)
+
+---
+
+# 🌐 Frameworks
+
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs)
+
+![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs)
+
+---
+
+# ☁️ Cloud & AI
+
+- OpenAI
+- ChatGPT
+- MCP
+- AI Agents
+- Google Cloud
+- REST APIs
+- OAuth
+- JWT
+
+---
+
+# 🗄 Databases
+
+- Oracle
+- MySQL
+- SQLite
+- MongoDB
+
+---
+
+# 🔧 Tools
+
+GitHub • Jira • Arduino • Canva • Adobe Creative Suite
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 NetSuite Procurement Automation
+
+Enterprise procurement workflow automation using SuiteScript.
+
+🔗 https://github.com/rambati2026
+
+---
+
+## 🤖 AI for NetSuite
+
+Integrating ChatGPT and AI Agents into enterprise workflows.
+
+🔗 https://github.com/rambati2026
+
+---
+
+## 🌐 NetSuite Chrome Extensions
+
+Productivity tools for NetSuite power users.
+
+🔗 https://github.com/rambati2026
+
+---
+
+## 📱 USCIS Case Tracker
+
+Swift application with AI integration.
+
+🔗 https://github.com/rambati2026
+
+---
+
+## 📦 Inventory Automation
+
+Warehouse automation and inventory optimization.
+
+---
+
+## 📊 Executive Dashboards
+
+Enterprise analytics and procurement reporting.
+
+---
+
+# 🎓 Certifications
+
+🏅 Oracle NetSuite *(Add if applicable)*
+
+🏅 SuiteScript
+
+🏅 Google Cloud
+
+🏅 AI Engineering
+
+🏅 Swift Development
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=rambati2026&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://streak-stats.demolab.com/?user=rambati2026&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rambati2026&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rambati2026&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rambati2026&theme=radical&margin-w=10&no-frame=true"/>
+
+</p>
+
+---
+
+# 🔥 Top Contributed Repositories
+
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=rambati2026&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</p>
+
+---
+
+# 💬 Latest Technical Articles
+
+📰 NetSuite Procurement Automation
+
+📰 Chrome Extensions for NetSuite
+
+📰 AI in Enterprise ERP
+
+📰 SuiteScript Best Practices
+
+📰 Enterprise Automation
+
+*(Replace these with links to your LinkedIn articles or blog posts.)*
+
+---
+
+# 📚 Currently Learning
+
+- Agentic AI
+- Apple Intelligence
+- MCP Architecture
+- Large Language Models
+- Advanced SwiftUI
+- Enterprise Cloud Architecture
+
+---
+
+# 📅 Weekly Development
+
+```text
+JavaScript      ████████████████████
+SuiteScript     ██████████████████
+TypeScript      ████████████
+Swift           ██████████
+SQL             ████████
+```
+
+---
+
+# 💡 Fun Fact
+
+> "Great software doesn't just automate work—it transforms the way businesses operate."
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on:
+
+- Enterprise Software
+- NetSuite Solutions
+- AI Applications
+- Chrome Extensions
+- Swift iOS Apps
+- Business Automation
+- Open Source Projects
+
+Feel free to connect with me on **LinkedIn** or explore my repositories.
+
+---
+
+# ⭐ If You Like My Work
+
+Please consider:
+
+⭐ Following my GitHub profile
+
+⭐ Starring my repositories
+
+⭐ Connecting with me on LinkedIn
+
+⭐ Sharing my projects
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/rambati2026/rambati2026/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Thanks for Visiting My Profile!
+
+**Building Enterprise Solutions • AI Applications • NetSuite Innovations**
+
+Made with ❤️ by **Ramakrishna Ambati**
+
+</p>
